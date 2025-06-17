@@ -1,8 +1,12 @@
 # CISNE SOFTWARES - Payment System
 
+![1750180481379](image/README/1750180481379.png)
+
 A payment integration system using Paystack for processing payments.
 
 **Production URL:** [https://chisnepayment.chisne.co.ke/](https://chisnepayment.chisne.co.ke/)
+
+![1750180689961](image/README/1750180689961.png)
 
 ## Features
 

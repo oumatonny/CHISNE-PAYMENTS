@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /configs.php
+Disallow: /callback.php
+Disallow: /Paystackresponse.json
+Disallow: /sucess.transaction.json
+
+Sitemap: https://chisnepayment.chisne.co.ke/sitemap.xml

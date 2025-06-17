@@ -1,0 +1,15 @@
+<?php
+// This is an example configuration file
+// Copy this file to configs.php and add your actual keys
+
+// For better security, consider using environment variables
+// $SecretKey = getenv('PAYSTACK_SECRET_KEY');
+// $PublicKey = getenv('PAYSTACK_PUBLIC_KEY');
+
+// Or define constants instead of variables
+define('PAYSTACK_SECRET_KEY', 'your_secret_key_here');
+define('PAYSTACK_PUBLIC_KEY', 'your_public_key_here');
+
+// Then use PAYSTACK_PUBLIC_KEY in your code instead of $PublicKey
+$SecretKey = "your_secret_key_here"; // Replace with your live secret key
+$PublicKey = "your_public_key_here"; // Replace with your live public key
